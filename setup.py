@@ -28,7 +28,7 @@ ext_mods = [Extension(name='combo.misc._src.traceAB',
             ]
 setup(
     name='combo',
-    version='0.2',
+    version='0.2.1',
     author='Tsuyoshi Ueno',
     author_email="tsuyoshi.ueno@gmail.com",
     packages=['combo', 'combo.misc', 'combo.misc._src',
